@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Homepages"
 title_separator          : "-"
 name                     : &name "Wei Li"
 description              : &description "personal description"
